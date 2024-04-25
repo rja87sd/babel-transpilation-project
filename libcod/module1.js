@@ -1,10 +1,11 @@
+// Credit to ChatGPT for assistance
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+  value: true,
 });
 exports.greet = void 0;
-const greet = name => {
+const greet = (name) => {
   return `Hello, ${name}!`;
 };
 exports.greet = greet;

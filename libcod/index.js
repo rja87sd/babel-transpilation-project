@@ -1,3 +1,4 @@
+// Credit to ChatGPT for assistance
 "use strict";
 
 var _module = require("./module1.js");

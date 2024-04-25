@@ -1,3 +1,4 @@
+// Credit to ChatGPT for assistance
 export class User {
   constructor(name) {
     this.name = name;
